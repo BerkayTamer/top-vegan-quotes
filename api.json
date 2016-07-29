@@ -1,0 +1,66 @@
+{
+  "1": {
+    "author": "Johnny Depp",
+    "image": "http://lorempixel.com/400/200",
+    "order": 1,
+    "category": "The Animals",
+    "preview": "If you don’t like seeing pictures of violence towards animals being …",
+    "basename": "1"
+  },
+  "2": {
+    "author": "Dr. Caldwell Esselstyn",
+    "image": "http://lorempixel.com/400/200",
+    "order": 2,
+    "category": "Your Health",
+    "preview": "Some people think the plant-based, whole-foods diet is extreme. Half …",
+    "basename": "2"
+  },
+  "3": {
+    "author": "Liam Hemsworth",
+    "image": "http://lorempixel.com/400/200",
+    "order": 3,
+    "category": "The Animals",
+    "preview": "After all the information I gathered about the mistreatment of …",
+    "basename": "3"
+  },
+  "4": {
+    "author": "Gary Yourofsky",
+    "image": "http://lorempixel.com/400/200",
+    "order": 4,
+    "category": "The Animals",
+    "preview": "It is not your right—based on YOUR traditions, YOUR customs and YOUR …",
+    "basename": "4"
+  },
+  "5": {
+    "author": "Freelee the Banana Girl",
+    "image": "http://lorempixel.com/400/200",
+    "order": 5,
+    "category": "Your Health",
+    "preview": "When you adopt a vegan diet we make a connection, you don't go back, …",
+    "basename": "5"
+  },
+  "6": {
+    "author": "Arnold Schwarzenegger",
+    "image": "http://lorempixel.com/400/200",
+    "order": 6,
+    "category": "Your Health",
+    "preview": "Luckily we know that you can get your protein source from many …",
+    "basename": "6"
+  },
+  "7": {
+    "author": "Bill Clinton",
+    "image": "http://lorempixel.com/400/200",
+    "order": 7,
+    "category": "Your Health",
+    "preview": "You have to make a conscious decision to change for your own …",
+    "basename": "7"
+  },
+  "8": {
+    "author": "Al Gore",
+    "image": "http://lorempixel.com/400/200",
+    "order": 8,
+    "category": "Your Health",
+    "preview": "I decided to pick the diet that I thought would maximize my chances …",
+    "basename": "8"
+  }
+}
