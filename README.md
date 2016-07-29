@@ -1,1 +1,1 @@
-# top-vegan-quotes
+node_modules/.bin/m2j md > api.json
