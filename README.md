@@ -1,1 +1,1 @@
-node_modules/.bin/m2j quotes > api.json
+node_modules/.bin/m2j -w 1000 quotes > api.json
