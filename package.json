@@ -1,0 +1,22 @@
+{
+  "name": "top-vegan-quotes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BerkayTamer/top-vegan-quotes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BerkayTamer/top-vegan-quotes/issues"
+  },
+  "homepage": "https://github.com/BerkayTamer/top-vegan-quotes#readme",
+  "dependencies": {
+    "markdown-to-json": "git+https://git@github.com/BerkayTamer/markdown-to-json.git#e54552f3373f0a6caaf740b0382a86675270d3fe"
+  }
+}
