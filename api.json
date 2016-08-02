@@ -66,7 +66,7 @@
   "9": {
     "author": "Cassey Afleck",
     "image": "http://lorempixel.com/400/200",
-    "order": 9,
+    "order": 10,
     "category": "Your Health",
     "preview": "When people ask me why I don’t eat meat or any other animal products, I say, ‘Because they are unhealthy and they are the product of a violent and inhumane industry.",
     "basename": "9"
@@ -132,7 +132,7 @@
     "image": "http://lorempixel.com/400/200",
     "order": 17,
     "category": "The Animals",
-    "preview": "We patronize them for their incompleteness, for their tragic fate for having taken form so far below ourselves. And therein do we err. For the animal shall not be measured by man. In a world older and more complete than ours, they move finished and complete, gifted with the extension of the senses we have lost or never attained, living by voices we shall never hear. They are not brethren, they are not underlings: they are other nations, caught with ourselves in the net of life and time, fellow …",
+    "preview": "We patronize them for their incompleteness, for their tragic fate for having taken form so far below ourselves. And therein do we err. For the animal shall not be measured by man. In a world older and more complete than ours, they move finished and complete, gifted with the extension of the senses we have lost or never attained, living by voices we shall never hear. They are not brethren, they are not underlings: they are other nations, caught with ourselves in the net of life and time, fellow prisoners of the splendour and travail of the earth.",
     "basename": "17"
   },
   "18": {
@@ -212,7 +212,7 @@
     "image": "http://lorempixel.com/400/200",
     "order": 27,
     "category": "The Animals",
-    "preview": "Isn't man an amazing animal? He kills wildlife - birds, kangaroos, deer, all kinds of cats, coyotes, beavers, groundhogs, mice, foxes and dingoes - by the million in order to protect his domestic animals and their feed. Then he kills domestic animals by the billion and eats them. This in turn kills man by the million, because eating all those animals leads to degenerative - and fatal- health conditions like heart disease, kidney disease, and cancer. So then man tortures and kills millions more …",
+    "preview": "Isn't man an amazing animal? He kills wildlife - birds, kangaroos, deer, all kinds of cats, coyotes, beavers, groundhogs, mice, foxes and dingoes - by the million in order to protect his domestic animals and their feed. Then he kills domestic animals by the billion and eats them. This in turn kills man by the million, because eating all those animals leads to degenerative - and fatal- health conditions like heart disease, kidney disease, and cancer. So then man tortures and kills millions more animals to look for cures for these diseases. Elsewhere, millions of other human beings are being killed by hunger and malnutrition because food they could eat is being used to fatten domestic animals. Meanwhile, some people are dying of sad laughter at the absurdity of man, who kills so easily and so violently, and once a year, sends out cards praying for Peace on Earth.",
     "basename": "27"
   },
   "28": {
@@ -316,7 +316,7 @@
     "image": "http://lorempixel.com/400/200",
     "order": 41,
     "category": "The Animals",
-    "preview": "I became a vegan the day I watched a video of a calf being born on a factory farm. The baby was dragged away from his mother before he hit the ground. The helpless calf strained its head backwards to find his mother. The mother bolted after her son and exploded into a rage when the rancher slammed the gate on her. She wailed the saddest noise I’d ever heard an animal make, and then thrashed and ...dug into the ground, burying her face in the muddy placenta. I had no idea what was happening …",
+    "preview": "I became a vegan the day I watched a video of a calf being born on a factory farm. The baby was dragged away from his mother before he hit the ground. The helpless calf strained its head backwards to find his mother. The mother bolted after her son and exploded into a rage when the rancher slammed the gate on her. She wailed the saddest noise I’d ever heard an animal make, and then thrashed and ...dug into the ground, burying her face in the muddy placenta. I had no idea what was happening respecting brain chemistry, animal instinct, or whatever. I just knew that this was deeply wrong. I just knew that such suffering could never be worth the taste of milk and veal. I empathized with the cow and the calf and, in so doing, my life changed.",
     "basename": "40"
   },
   "42": {
@@ -508,7 +508,7 @@
     "image": "http://lorempixel.com/400/200",
     "order": 65,
     "category": "The Animals",
-    "preview": "Perhaps in the back of our minds we already understand, without all the science I've discussed, that something terribly wrong is happening. Our sustenance now comes from misery. We know that if someone offers to show us a film on how our meat is produced, it will be a horror film. We perhaps know more than we care to admit, keeping it down in the dark places of our memory-- disavowed. When we eat factory-farmed meat we live, literally, on tortured flesh. Increasingly, that tortured flesh is …",
+    "preview": "Perhaps in the back of our minds we already understand, without all the science I've discussed, that something terribly wrong is happening. Our sustenance now comes from misery. We know that if someone offers to show us a film on how our meat is produced, it will be a horror film. We perhaps know more than we care to admit, keeping it down in the dark places of our memory-- disavowed. When we eat factory-farmed meat we live, literally, on tortured flesh. Increasingly, that tortured flesh is becoming our own.",
     "basename": "65"
   },
   "66": {
@@ -532,7 +532,7 @@
     "image": "http://lorempixel.com/400/200",
     "order": 68,
     "category": "The Animals",
-    "preview": "Being vegan is easy. Are there social pressures that encourage you to continue to eat, wear, and use animal products? Of course there are. But in a patriarchal, racist, homophobic, and ableist society, there are social pressures to participate and engage in sexism, racism, homophobia, and ableism. At some point, you have to decide who you are and what matters morally to you. And once you decide that you regard victimizing vulnerable nonhumans is not morally acceptable, it is easy to go and stay …",
+    "preview": "Being vegan is easy. Are there social pressures that encourage you to continue to eat, wear, and use animal products? Of course there are. But in a patriarchal, racist, homophobic, and ableist society, there are social pressures to participate and engage in sexism, racism, homophobia, and ableism. At some point, you have to decide who you are and what matters morally to you. And once you decide that you regard victimizing vulnerable nonhumans is not morally acceptable, it is easy to go and stay vegan.",
     "basename": "68"
   },
   "69": {
@@ -548,7 +548,7 @@
     "image": "http://lorempixel.com/400/200",
     "order": 70,
     "category": "Your Health",
-    "preview": "Elsewhere the paper notes that vegetarians and vegans (including athletes) 'meet and exceed requirements' for protein. And, to render the whole we-should-worry-about-getting-enough-protein-and-therefore-eat-meat idea even more useless, other data suggests that excess animal protein intake is linked with osteoporosis, kidney disease, calcium stones in the urinary tract, and some cancers. Despite some persistent confusion, it is clear that vegetarians and vegans tend to have more optimal protein …",
+    "preview": "Elsewhere the paper notes that vegetarians and vegans (including athletes) 'meet and exceed requirements' for protein. And, to render the whole we-should-worry-about-getting-enough-protein-and-therefore-eat-meat idea even more useless, other data suggests that excess animal protein intake is linked with osteoporosis, kidney disease, calcium stones in the urinary tract, and some cancers. Despite some persistent confusion, it is clear that vegetarians and vegans tend to have more optimal protein consumption than omnivores.",
     "basename": "70"
   },
   "71": {
@@ -580,7 +580,7 @@
     "image": "http://lorempixel.com/400/200",
     "order": 74,
     "category": "The Animals",
-    "preview": "It was all so very businesslike that one watched it fascinated. It was pork-making by machinery, pork-making by applied mathematics. And yet somehow the most matter-of-fact person could not help thinking of the hogs; they were so innocent, they came so very trustingly; and they were so very human in their protests - and so perfectly within their rights! They had done nothing to deserve it; and it was adding insult to injury, as the thing was done here, swinging them up in this cold-blooded, …",
+    "preview": "It was all so very businesslike that one watched it fascinated. It was pork-making by machinery, pork-making by applied mathematics. And yet somehow the most matter-of-fact person could not help thinking of the hogs; they were so innocent, they came so very trustingly; and they were so very human in their protests - and so perfectly within their rights! They had done nothing to deserve it; and it was adding insult to injury, as the thing was done here, swinging them up in this cold-blooded, impersonal way, without pretence at apology, without the homage of a tear.",
     "basename": "74"
   },
   "75": {
@@ -596,7 +596,7 @@
     "image": "http://lorempixel.com/400/200",
     "order": 76,
     "category": "The Animals",
-    "preview": "The path of the norm is the path of least resistance; it is the route we take when we're on auto-pilot and don't even realize we're following a course of action that we haven't consciously chosen. Most people who eat meat have no idea that they're behaving in accordance with the tenets of a system that has defined many of their values, preferences, and behaviors. What they call 'free choice' is, in fact, the result of a narrowly obstructed set of options that have been chosen for them. They …",
+    "preview": "The path of the norm is the path of least resistance; it is the route we take when we're on auto-pilot and don't even realize we're following a course of action that we haven't consciously chosen. Most people who eat meat have no idea that they're behaving in accordance with the tenets of a system that has defined many of their values, preferences, and behaviors. What they call 'free choice' is, in fact, the result of a narrowly obstructed set of options that have been chosen for them. They don't realize, for instance, that they have been taught to value human life so far above certain forms of nonhuman life that it seems appropriate for their taste preferences to supersede other species' preference for survival.",
     "basename": "76"
   },
   "77": {
@@ -652,7 +652,7 @@
     "image": "http://lorempixel.com/400/200",
     "order": 83,
     "category": "The Animals",
-    "preview": "Go to the meat market of a Saturday night and see the crowds of live bipeds staring up at the long rows of dead quadrupeds. Does not that sight take a tooth out of the cannibal's jaw? Cannibals? who is not a cannibal? I tell you it will be more tolerable for the Fejee that salted down a lean missionary in his cellar against a coming famine; it will be more tolerable for that provident Fejee, I say, in the day of judgement, than for thee, civilized and enlightened gourmand, who naliest geese to …",
+    "preview": "Go to the meat market of a Saturday night and see the crowds of live bipeds staring up at the long rows of dead quadrupeds. Does not that sight take a tooth out of the cannibal's jaw? Cannibals? who is not a cannibal? I tell you it will be more tolerable for the Fejee that salted down a lean missionary in his cellar against a coming famine; it will be more tolerable for that provident Fejee, I say, in the day of judgement, than for thee, civilized and enlightened gourmand, who naliest geese to the ground and feistiest on their bloated livers in thy paté-de-foie-gras.",
     "basename": "83"
   },
   "84": {
@@ -700,7 +700,7 @@
     "image": "http://lorempixel.com/400/200",
     "order": 89,
     "category": "The Animals",
-    "preview": "I am not well-versed in theory, but in my view, the cow deserves her life. As does the ram. As does the ladybug. As does the elephant. As do the fish, and the dog and the bee; as do other sentient beings. I will always be in favor of veganism as a minimum because I believe that sentient beings have a right not to be used as someone else's property. They ask us to be brave for them, to be clear for them, and I see no other acceptable choice but to advocate veganism. If these statements make me a …",
+    "preview": "I am not well-versed in theory, but in my view, the cow deserves her life. As does the ram. As does the ladybug. As does the elephant. As do the fish, and the dog and the bee; as do other sentient beings. I will always be in favor of veganism as a minimum because I believe that sentient beings have a right not to be used as someone else's property. They ask us to be brave for them, to be clear for them, and I see no other acceptable choice but to advocate veganism. If these statements make me a fundamentalist, then I will sew a scarlet F on my jacket so that all may know I'm fundamentally in favor of nonviolence; may they bury me in it so that all will know where I stood.",
     "basename": "89"
   },
   "90": {
@@ -724,7 +724,7 @@
     "image": "http://lorempixel.com/400/200",
     "order": 92,
     "category": "The Animals",
-    "preview": "I don't believe vegans (or vegetarians) who still get their (packaged, preservative/chemical-ridden) food from industrial food systems have any righteous ground to stand on, nor do I think a deep look at the sentient life of plants or the true environmental impact of agriculture permits them any comfortable distance from cruelty. Everything in this world eats something else to survive, and that something else, whether running on blood or chlorophyll, would always rather continue to live rather …",
+    "preview": "I don't believe vegans (or vegetarians) who still get their (packaged, preservative/chemical-ridden) food from industrial food systems have any righteous ground to stand on, nor do I think a deep look at the sentient life of plants or the true environmental impact of agriculture permits them any comfortable distance from cruelty. Everything in this world eats something else to survive, and that something else, whether running on blood or chlorophyll, would always rather continue to live rather than become sustenance for another. No animal wants to be penned up and milked, or caged and harvested, and you've never seen plants growing in regimented lines of their own accord.",
     "basename": "92"
   },
   "93": {
