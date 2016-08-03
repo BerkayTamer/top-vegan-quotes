@@ -66,9 +66,9 @@
   "9": {
     "author": "Durianrider",
     "image": "images/durianrider.jpg",
-    "order": 10,
-    "category": "Your Health",
-    "preview": "When people ask me why I don’t eat meat or any other animal products, I say, ‘Because they are unhealthy and they are the product of a violent and inhumane industry.",
+    "order": 9,
+    "category": "The Animals",
+    "preview": "Animal lovin’ ain’t shovin’ ‘em in the oven.",
     "basename": "9"
   },
   "10": {
@@ -314,17 +314,25 @@
   "40": {
     "author": "James McWilliams",
     "image": "http://lorempixel.com/400/200",
-    "order": 41,
+    "order": 40,
     "category": "The Animals",
     "preview": "I became a vegan the day I watched a video of a calf being born on a factory farm. The baby was dragged away from his mother before he hit the ground. The helpless calf strained its head backwards to find his mother. The mother bolted after her son and exploded into a rage when the rancher slammed the gate on her. She wailed the saddest noise I’d ever heard an animal make, and then thrashed and ...dug into the ground, burying her face in the muddy placenta. I had no idea what was happening respecting brain chemistry, animal instinct, or whatever. I just knew that this was deeply wrong. I just knew that such suffering could never be worth the taste of milk and veal. I empathized with the cow and the calf and, in so doing, my life changed.",
     "basename": "40"
+  },
+  "41": {
+    "author": "Moby",
+    "image": "images/moby.jpg",
+    "order": 41,
+    "category": "The Animals",
+    "preview": "Intellectually, human beings and animals may be different, but it's pretty obvious that animals have a rich emotional life and that they feel joy and pain. It's easy to forget the connection between a hamburger and the cow it came from. But I forced myself to acknowledge the fact that every time I ate a hamburger, a cow had ceased to breathe.",
+    "basename": "41"
   },
   "42": {
     "author": "Moby",
     "image": "images/moby.jpg",
     "order": 42,
     "category": "The Animals",
-    "preview": "Intellectually, human beings and animals may be different, but it's pretty obvious that animals have a rich emotional life and that they feel joy and pain. It's easy to forget the connection between a hamburger and the cow it came from. But I forced myself to acknowledge the fact that every time I ate a hamburger, a cow had ceased to breathe.",
+    "preview": "If you don't want to be beaten, imprisoned, mutilated, killed or tortured then you shouldn't condone such behaviour towards anyone, be they human or not.",
     "basename": "42"
   },
   "43": {
@@ -332,47 +340,47 @@
     "image": "images/moby.jpg",
     "order": 43,
     "category": "The Animals",
-    "preview": "If you don't want to be beaten, imprisoned, mutilated, killed or tortured then you shouldn't condone such behaviour towards anyone, be they human or not.",
+    "preview": "Could you look an animal in the eyes and say to it, 'My appetite is more important than your suffering'?",
     "basename": "43"
   },
   "44": {
-    "author": "Moby",
-    "image": "images/moby.jpg",
+    "author": "Ingrid Newkirk",
+    "image": "images/ingrid_newkirk.jpg",
     "order": 44,
-    "category": "The Animals",
-    "preview": "Could you look an animal in the eyes and say to it, 'My appetite is more important than your suffering'?",
+    "category": "Your Health",
+    "preview": "Recognize meat for what it really is: the antibiotic- and pesticide-laden corpse of a tortured animal.",
     "basename": "44"
   },
   "45": {
-    "author": "Ingrid Newkirk",
-    "image": "images/ingrid_newkirk.jpg",
+    "author": "Plutarch",
+    "image": "images/plutarch.jpg",
     "order": 45,
-    "category": "Your Health",
-    "preview": "Recognize meat for what it really is: the antibiotic- and pesticide-laden corpse of a tortured animal.",
+    "category": "The Animals",
+    "preview": "But for the sake of some little mouthful of flesh we deprive a soul of the sun and light, and of that proportion of life and time it had been born into the world to enjoy.",
     "basename": "45"
   },
   "46": {
-    "author": "Plutarch",
-    "image": "images/plutarch.jpg",
+    "author": "Pythagoras",
+    "image": "images/pythagoras.jpg",
     "order": 46,
     "category": "The Animals",
-    "preview": "But for the sake of some little mouthful of flesh we deprive a soul of the sun and light, and of that proportion of life and time it had been born into the world to enjoy.",
+    "preview": "For as long as men massacre animals, they will kill each other. Indeed, he who sows the seed of murder and pain cannot reap joy and love.",
     "basename": "46"
   },
   "47": {
-    "author": "Pythagoras",
-    "image": "images/pythagoras.jpg",
+    "author": "John Ruskin",
+    "image": "images/john_ruskin.jpg",
     "order": 47,
     "category": "The Animals",
-    "preview": "For as long as men massacre animals, they will kill each other. Indeed, he who sows the seed of murder and pain cannot reap joy and love.",
+    "preview": "I will not kill or hurt any living creature needlessly, nor destroy any beautiful thing, but will strive to save and comfort all gentle life, and guard and perfect all natural beauty upon the earth.",
     "basename": "47"
   },
   "48": {
-    "author": "John Ruskin",
-    "image": "images/john_ruskin.jpg",
+    "author": "Albert Schweitzer",
+    "image": "images/albert_schweitzer.jpg",
     "order": 48,
     "category": "The Animals",
-    "preview": "I will not kill or hurt any living creature needlessly, nor destroy any beautiful thing, but will strive to save and comfort all gentle life, and guard and perfect all natural beauty upon the earth.",
+    "preview": "The thinking man must oppose all cruel customs no matter how deeply rooted in tradition and surrounded by a halo. When we have a choice, we must avoid bringing torment and injury into the life of another, even the lowliest creature; to do so is to renounce our manhood and shoulder a guilt which nothing justifies.",
     "basename": "48"
   },
   "49": {
@@ -380,7 +388,7 @@
     "image": "images/albert_schweitzer.jpg",
     "order": 49,
     "category": "The Animals",
-    "preview": "The thinking man must oppose all cruel customs no matter how deeply rooted in tradition and surrounded by a halo. When we have a choice, we must avoid bringing torment and injury into the life of another, even the lowliest creature; to do so is to renounce our manhood and shoulder a guilt which nothing justifies.",
+    "preview": "The human spirit is not dead. It lives on in secret.....It has come to believe that compassion, in which all ethics must take root, can only attain its full breadth and depth if it embraces all living creatures and does not limit itself to mankind.",
     "basename": "49"
   },
   "50": {
@@ -388,23 +396,23 @@
     "image": "images/albert_schweitzer.jpg",
     "order": 50,
     "category": "The Animals",
-    "preview": "The human spirit is not dead. It lives on in secret.....It has come to believe that compassion, in which all ethics must take root, can only attain its full breadth and depth if it embraces all living creatures and does not limit itself to mankind.",
+    "preview": "A man is ethical only when life, as such, is sacred to him, that of plants and animals as that of his fellow men, and when he devotes himself helpfully to all life that is in need of help.",
     "basename": "50"
   },
   "51": {
-    "author": "Albert Schweitzer",
-    "image": "images/albert_schweitzer.jpg",
+    "author": "George Bernard Shaw",
+    "image": "images/george_bernard_Shaw.jpg",
     "order": 51,
     "category": "The Animals",
-    "preview": "A man is ethical only when life, as such, is sacred to him, that of plants and animals as that of his fellow men, and when he devotes himself helpfully to all life that is in need of help.",
+    "preview": "The worst sin toward our fellow creatures is not to hate them, but to be indifferent to them: that's the essence of inhumanity.",
     "basename": "51"
   },
   "52": {
-    "author": "George Bernard Shaw",
-    "image": "images/george_bernard_Shaw.jpg",
+    "author": "Isaac Bashevis Singer",
+    "image": "images/isaac_bashevis_singer.jpg",
     "order": 52,
     "category": "The Animals",
-    "preview": "The worst sin toward our fellow creatures is not to hate them, but to be indifferent to them: that's the essence of inhumanity.",
+    "preview": "As long as people will shed the blood of innocent creatures there can be no peace, no liberty, no harmony between people. Slaughter and justice cannot dwell together.",
     "basename": "52"
   },
   "53": {
@@ -412,31 +420,31 @@
     "image": "images/isaac_bashevis_singer.jpg",
     "order": 53,
     "category": "The Animals",
-    "preview": "As long as people will shed the blood of innocent creatures there can be no peace, no liberty, no harmony between people. Slaughter and justice cannot dwell together.",
+    "preview": "People often say that humans have always eaten animals, as if this is a justification for continuing to the practice. According to this logic, we should not try to prevent people from murdering other people, since this has also been done since the earliest of times.",
     "basename": "53"
   },
   "54": {
-    "author": "Isaac Bashevis Singer",
-    "image": "images/isaac_bashevis_singer.jpg",
+    "author": "Gary Smith",
+    "image": "http://lorempixel.com/400/200",
     "order": 54,
     "category": "The Animals",
-    "preview": "People often say that humans have always eaten animals, as if this is a justification for continuing to the practice. According to this logic, we should not try to prevent people from murdering other people, since this has also been done since the earliest of times.",
+    "preview": "150 years ago, they would have thought you were absurd if you advocated for the end of slavery. 100 years ago, they would have laughed at you for suggesting that women should have the right to vote. 50 years ago, they would object to the idea of African Americans receiving equal rights under the law. 25 years ago they would have called you a pervert if you advocated for gay rights. They laugh at us now for suggesting that animal slavery be ended. Some day they won't be laughing.",
     "basename": "54"
   },
   "55": {
-    "author": "Gary Smith",
+    "author": "Judy Stephens Snook",
     "image": "http://lorempixel.com/400/200",
     "order": 55,
     "category": "The Animals",
-    "preview": "150 years ago, they would have thought you were absurd if you advocated for the end of slavery. 100 years ago, they would have laughed at you for suggesting that women should have the right to vote. 50 years ago, they would object to the idea of African Americans receiving equal rights under the law. 25 years ago they would have called you a pervert if you advocated for gay rights. They laugh at us now for suggesting that animal slavery be ended. Some day they won't be laughing.",
+    "preview": "How can people spend this Christmas season talking of 'peace on earth' and 'love' and then sit down to devour someone who never knew love or peace?",
     "basename": "55"
   },
   "56": {
-    "author": "Judy Stephens Snook",
-    "image": "http://lorempixel.com/400/200",
+    "author": "Socrates",
+    "image": "images/socrates.jpg",
     "order": 56,
-    "category": "The Animals",
-    "preview": "How can people spend this Christmas season talking of 'peace on earth' and 'love' and then sit down to devour someone who never knew love or peace?",
+    "category": "Your Health",
+    "preview": "Thou should eat to live; not live to eat.",
     "basename": "56"
   },
   "57": {
@@ -448,43 +456,43 @@
     "basename": "57"
   },
   "58": {
-    "author": "Socrates",
-    "image": "images/socrates.jpg",
+    "author": "Robert Louis Stevenson",
+    "image": "images/robert_louis_stevenson.jpg",
     "order": 58,
-    "category": "Your Health",
-    "preview": "Thou should eat to live; not live to eat.",
+    "category": "The Animals",
+    "preview": "We consume the carcasses of creatures of like appetites, passions and organs with our own, and fill the slaughterhouses daily with screams of pain and fear.",
     "basename": "58"
   },
   "59": {
-    "author": "Robert Louis Stevenson",
-    "image": "images/robert_louis_stevenson.jpg",
+    "author": "Henry David Thoreau",
+    "image": "images/henry_David_thoreau.jpg",
     "order": 59,
     "category": "The Animals",
-    "preview": "We consume the carcasses of creatures of like appetites, passions and organs with our own, and fill the slaughterhouses daily with screams of pain and fear.",
+    "preview": "One farmer says to me, ‘You cannot live on vegetable food solely, for it furnishes nothing to make the bones with;’ and so he religiously devotes a part of his day to supplying himself with the raw material of bones; walking all the while he talks behind his oxen, which, with vegetable-made bones, jerk him and his lumbering plow along in spite of every obstacle.",
     "basename": "59"
   },
   "60": {
-    "author": "Henry David Thoreau",
-    "image": "images/henry_David_thoreau.jpg",
+    "author": "Leo Tolstoy",
+    "image": "images/leo_tolstoy.jpg",
     "order": 60,
-    "category": "The Animals",
-    "preview": "One farmer says to me, ‘You cannot live on vegetable food solely, for it furnishes nothing to make the bones with;’ and so he religiously devotes a part of his day to supplying himself with the raw material of bones; walking all the while he talks behind his oxen, which, with vegetable-made bones, jerk him and his lumbering plow along in spite of every obstacle.",
+    "category": "Your Health",
+    "preview": "A man can live and be healthy without killing animals for food; therefore, if he eats meat, he participates in taking animal life merely for the sake of his appetite. And to act so is immoral.",
     "basename": "60"
   },
   "61": {
-    "author": "Leo Tolstoy",
-    "image": "images/leo_tolstoy.jpg",
+    "author": "Thomas Tryon",
+    "image": "http://lorempixel.com/400/200",
     "order": 61,
-    "category": "Your Health",
-    "preview": "A man can live and be healthy without killing animals for food; therefore, if he eats meat, he participates in taking animal life merely for the sake of his appetite. And to act so is immoral.",
+    "category": "The Animals",
+    "preview": "Refrain at all times from such foods as cannot be procured without violence and oppression.",
     "basename": "61"
   },
   "62": {
-    "author": "Thomas Tryon",
-    "image": "http://lorempixel.com/400/200",
+    "author": "Mark Twain",
+    "image": "images/mark_twain.jpg",
     "order": 62,
     "category": "The Animals",
-    "preview": "Refrain at all times from such foods as cannot be procured without violence and oppression.",
+    "preview": "Of all the creatures, man is the most detestable. Of the entire brood, he's the one that possesses malice. He is the only creature that inflicts pain for sport, knowing it to be pain. The fact that man knows right from wrong proves his intellectual superiority to the other creatures; but the fact that he can do wrong proves his moral inferiority to any creature that cannot.",
     "basename": "62"
   },
   "63": {
@@ -492,39 +500,39 @@
     "image": "images/mark_twain.jpg",
     "order": 63,
     "category": "The Animals",
-    "preview": "Of all the creatures, man is the most detestable. Of the entire brood, he's the one that possesses malice. He is the only creature that inflicts pain for sport, knowing it to be pain. The fact that man knows right from wrong proves his intellectual superiority to the other creatures; but the fact that he can do wrong proves his moral inferiority to any creature that cannot.",
+    "preview": "I believe I am not interested to know whether Vivisection produces results that are profitable to the human race or doesn't. To know that the results are profitable to the race would not remove my hostility to it. The pains which it inflicts upon unconsenting animals is the basis of my enmity towards it, and it is to me sufficient justification of the enmity without looking further.",
     "basename": "63"
   },
   "64": {
-    "author": "Mark Twain",
-    "image": "images/mark_twain.jpg",
+    "author": "Jonathan Safran",
+    "image": "images/jonathan_safran.jpg",
     "order": 64,
     "category": "The Animals",
-    "preview": "I believe I am not interested to know whether Vivisection produces results that are profitable to the human race or doesn't. To know that the results are profitable to the race would not remove my hostility to it. The pains which it inflicts upon unconsenting animals is the basis of my enmity towards it, and it is to me sufficient justification of the enmity without looking further.",
+    "preview": "Perhaps in the back of our minds we already understand, without all the science I've discussed, that something terribly wrong is happening. Our sustenance now comes from misery. We know that if someone offers to show us a film on how our meat is produced, it will be a horror film. We perhaps know more than we care to admit, keeping it down in the dark places of our memory-- disavowed. When we eat factory-farmed meat we live, literally, on tortured flesh. Increasingly, that tortured flesh is becoming our own.",
     "basename": "64"
   },
   "65": {
-    "author": "Jonathan Safran",
-    "image": "images/jonathan_safran.jpg",
+    "author": "Ellen DeGeneres",
+    "image": "images/ellen_deGeneres.jpg",
     "order": 65,
     "category": "The Animals",
-    "preview": "Perhaps in the back of our minds we already understand, without all the science I've discussed, that something terribly wrong is happening. Our sustenance now comes from misery. We know that if someone offers to show us a film on how our meat is produced, it will be a horror film. We perhaps know more than we care to admit, keeping it down in the dark places of our memory-- disavowed. When we eat factory-farmed meat we live, literally, on tortured flesh. Increasingly, that tortured flesh is becoming our own.",
+    "preview": "If you want to test cosmetics, why do it on some poor animal who hasn't done anything? They should use prisoners who have been convicted of murder or rape instead. So, rather than seeing if perfume irritates a bunny rabbit's eyes, they should throw it in Charles Manson's eyes and ask him if it hurts.",
     "basename": "65"
   },
   "66": {
-    "author": "Ellen DeGeneres",
-    "image": "images/ellen_deGeneres.jpg",
+    "author": "Rai Aren",
+    "image": "http://lorempixel.com/400/200",
     "order": 66,
     "category": "The Animals",
-    "preview": "If you want to test cosmetics, why do it on some poor animal who hasn't done anything? They should use prisoners who have been convicted of murder or rape instead. So, rather than seeing if perfume irritates a bunny rabbit's eyes, they should throw it in Charles Manson's eyes and ask him if it hurts.",
+    "preview": "I made the choice to be vegan because I will not eat (or wear, or use) anything that could have an emotional response to its death or captivity. I can well imagine what that must feel like for our non-human friends - the fear, the terror, the pain - and I will not cause such suffering to a fellow living being.",
     "basename": "66"
   },
   "67": {
-    "author": "rai_aren",
-    "image": "http://lorempixel.com/400/200",
+    "author": "Gary L. Francione",
+    "image": "images/gary_francione.jpg",
     "order": 67,
     "category": "The Animals",
-    "preview": "I made the choice to be vegan because I will not eat (or wear, or use) anything that could have an emotional response to its death or captivity. I can well imagine what that must feel like for our non-human friends - the fear, the terror, the pain - and I will not cause such suffering to a fellow living being.",
+    "preview": "Being vegan is easy. Are there social pressures that encourage you to continue to eat, wear, and use animal products? Of course there are. But in a patriarchal, racist, homophobic, and ableist society, there are social pressures to participate and engage in sexism, racism, homophobia, and ableism. At some point, you have to decide who you are and what matters morally to you. And once you decide that you regard victimizing vulnerable nonhumans is not morally acceptable, it is easy to go and stay vegan.",
     "basename": "67"
   },
   "68": {
@@ -532,271 +540,263 @@
     "image": "images/gary_francione.jpg",
     "order": 68,
     "category": "The Animals",
-    "preview": "Being vegan is easy. Are there social pressures that encourage you to continue to eat, wear, and use animal products? Of course there are. But in a patriarchal, racist, homophobic, and ableist society, there are social pressures to participate and engage in sexism, racism, homophobia, and ableism. At some point, you have to decide who you are and what matters morally to you. And once you decide that you regard victimizing vulnerable nonhumans is not morally acceptable, it is easy to go and stay vegan.",
+    "preview": "Veganism is not about giving anything up or losing anything; it is about gaining the peace within yourself that comes from embracing nonviolence and refusing to participate in the exploitation of the vulnerable.",
     "basename": "68"
   },
   "69": {
-    "author": "Gary L. Francione",
-    "image": "images/gary_francione.jpg",
+    "author": "Jonathan Safran",
+    "image": "images/jonathan_safran.jpg",
     "order": 69,
-    "category": "The Animals",
-    "preview": "Veganism is not about giving anything up or losing anything; it is about gaining the peace within yourself that comes from embracing nonviolence and refusing to participate in the exploitation of the vulnerable.",
+    "category": "Your Health",
+    "preview": "Elsewhere the paper notes that vegetarians and vegans (including athletes) 'meet and exceed requirements' for protein. And, to render the whole we-should-worry-about-getting-enough-protein-and-therefore-eat-meat idea even more useless, other data suggests that excess animal protein intake is linked with osteoporosis, kidney disease, calcium stones in the urinary tract, and some cancers. Despite some persistent confusion, it is clear that vegetarians and vegans tend to have more optimal protein consumption than omnivores.",
     "basename": "69"
   },
   "70": {
-    "author": "Jonathan Safran",
-    "image": "images/jonathan_safran.jpg",
+    "author": "Gene Baur",
+    "image": "images/gene_baur.jpg",
     "order": 70,
-    "category": "Your Health",
-    "preview": "Elsewhere the paper notes that vegetarians and vegans (including athletes) 'meet and exceed requirements' for protein. And, to render the whole we-should-worry-about-getting-enough-protein-and-therefore-eat-meat idea even more useless, other data suggests that excess animal protein intake is linked with osteoporosis, kidney disease, calcium stones in the urinary tract, and some cancers. Despite some persistent confusion, it is clear that vegetarians and vegans tend to have more optimal protein consumption than omnivores.",
+    "category": "The Planet",
+    "preview": "The sixteen hundred dairies in California’s Central Valley alone produce more waste than a city of twenty-one million people-that’s more than the populations of London, New York, and Chicago combined.",
     "basename": "70"
   },
   "71": {
-    "author": "Gene Baur",
-    "image": "images/gene_baur.jpg",
+    "author": "Bill Maher",
+    "image": "images/bill_maher.jpg",
     "order": 71,
-    "category": "The Planet",
-    "preview": "The sixteen hundred dairies in California’s Central Valley alone produce more waste than a city of twenty-one million people-that’s more than the populations of London, New York, and Chicago combined.",
+    "category": "Your Health",
+    "preview": "I wouldn't touch a hot dog unless you put a condom on it! You realize that the job of a hot dog is to use parts of the animal that the Chinese can't figure out how to make into a belt? -timecode 1:11:10",
     "basename": "71"
   },
   "72": {
-    "author": "Bill Maher",
-    "image": "images/bill_maher.jpg",
+    "author": "Chuck Palahniuk",
+    "image": "images/chuck_palahniuk.jpg",
     "order": 72,
-    "category": "Your Health",
-    "preview": "I wouldn't touch a hot dog unless you put a condom on it! You realize that the job of a hot dog is to use parts of the animal that the Chinese can't figure out how to make into a belt? -timecode 1:11:10",
+    "category": "The Animals",
+    "preview": "Do you know why most survivors of the Holocaust are vegan? It's because they know what it's like to be treated like an animal.",
     "basename": "72"
   },
   "73": {
-    "author": "Chuck Palahniuk",
-    "image": "images/chuck_palahniuk.jpg",
+    "author": "Upton Sinclair",
+    "image": "images/upton_sinclair.jpg",
     "order": 73,
     "category": "The Animals",
-    "preview": "Do you know why most survivors of the Holocaust are vegan? It's because they know what it's like to be treated like an animal.",
+    "preview": "It was all so very businesslike that one watched it fascinated. It was pork-making by machinery, pork-making by applied mathematics. And yet somehow the most matter-of-fact person could not help thinking of the hogs; they were so innocent, they came so very trustingly; and they were so very human in their protests - and so perfectly within their rights! They had done nothing to deserve it; and it was adding insult to injury, as the thing was done here, swinging them up in this cold-blooded, impersonal way, without pretence at apology, without the homage of a tear.",
     "basename": "73"
   },
   "74": {
-    "author": "Upton Sinclair",
-    "image": "images/upton_sinclair.jpg",
+    "author": "Mohandas Gandhi",
+    "image": "images/mohandas_gandhi.jpg",
     "order": 74,
     "category": "The Animals",
-    "preview": "It was all so very businesslike that one watched it fascinated. It was pork-making by machinery, pork-making by applied mathematics. And yet somehow the most matter-of-fact person could not help thinking of the hogs; they were so innocent, they came so very trustingly; and they were so very human in their protests - and so perfectly within their rights! They had done nothing to deserve it; and it was adding insult to injury, as the thing was done here, swinging them up in this cold-blooded, impersonal way, without pretence at apology, without the homage of a tear.",
+    "preview": "Violence begins with the fork.",
     "basename": "74"
   },
   "75": {
-    "author": "Mohandas Gandhi",
-    "image": "images/mohandas_gandhi.jpg",
+    "author": "Melanie Joy",
+    "image": "http://lorempixel.com/400/200",
     "order": 75,
     "category": "The Animals",
-    "preview": "Violence begins with the fork.",
+    "preview": "The path of the norm is the path of least resistance; it is the route we take when we're on auto-pilot and don't even realize we're following a course of action that we haven't consciously chosen. Most people who eat meat have no idea that they're behaving in accordance with the tenets of a system that has defined many of their values, preferences, and behaviors. What they call 'free choice' is, in fact, the result of a narrowly obstructed set of options that have been chosen for them. They don't realize, for instance, that they have been taught to value human life so far above certain forms of nonhuman life that it seems appropriate for their taste preferences to supersede other species' preference for survival.",
     "basename": "75"
   },
   "76": {
-    "author": "Melanie Joy",
-    "image": "http://lorempixel.com/400/200",
+    "author": "Thích Nhất Hạnh",
+    "image": "images/thick_nhat_hạnh.jpg",
     "order": 76,
     "category": "The Animals",
-    "preview": "The path of the norm is the path of least resistance; it is the route we take when we're on auto-pilot and don't even realize we're following a course of action that we haven't consciously chosen. Most people who eat meat have no idea that they're behaving in accordance with the tenets of a system that has defined many of their values, preferences, and behaviors. What they call 'free choice' is, in fact, the result of a narrowly obstructed set of options that have been chosen for them. They don't realize, for instance, that they have been taught to value human life so far above certain forms of nonhuman life that it seems appropriate for their taste preferences to supersede other species' preference for survival.",
+    "preview": "Being vegetarian here also means that we do not consume dairy and egg products, because they are products of the meat industry. If we stop consuming, they will stop producing. Only collective awakening can create enough determination for action.",
     "basename": "76"
   },
   "77": {
-    "author": "Thích Nhất Hạnh",
-    "image": "images/thick_nhat_hạnh.jpg",
+    "author": "T. Casey Brennan",
+    "image": "images/casey_brennan.jpg",
     "order": 77,
     "category": "The Animals",
-    "preview": "Being vegetarian here also means that we do not consume dairy and egg products, because they are products of the meat industry. If we stop consuming, they will stop producing. Only collective awakening can create enough determination for action.",
+    "preview": "Poor animals, how jealously they guard their bodies, for to us is merely an evening’s meal, but to them is life itself.",
     "basename": "77"
   },
   "78": {
-    "author": "T. Casey Brennan",
-    "image": "images/casey_brennan.jpg",
+    "author": "Will Tuttle",
+    "image": "images/will_tuttle.jpg",
     "order": 78,
     "category": "The Animals",
-    "preview": "Poor animals, how jealously they guard their bodies, for to us is merely an evening’s meal, but to them is life itself.",
+    "preview": "There is something about veganism that is not easy, but the difficulty is not inherent in veganism, but in our culture.",
     "basename": "78"
   },
   "79": {
-    "author": "Will Tuttle",
-    "image": "images/will_tuttle.jpg",
+    "author": "Bob Torres",
+    "image": "http://lorempixel.com/400/200",
     "order": 79,
     "category": "The Animals",
-    "preview": "There is something about veganism that is not easy, but the difficulty is not inherent in veganism, but in our culture.",
+    "preview": "Our economic order is tightly woven around the exploitation of animals, and while it may seem easy to dismiss concern about animals as the soft-headed mental masturbation of people who really don't understand oppression and the depths of actual human misery, I hope to get you to think differently about suffering and pain, to convince you that animals matter, and to argue that anyone serious about ending domination and hierarchy needs to think critically about bringing animals into consideration.",
     "basename": "79"
   },
   "80": {
-    "author": "Bob Torres",
-    "image": "http://lorempixel.com/400/200",
+    "author": "Karyn Calabrese",
+    "image": "images/karyn_calabrese.jpg",
     "order": 80,
-    "category": "The Animals",
-    "preview": "Our economic order is tightly woven around the exploitation of animals, and while it may seem easy to dismiss concern about animals as the soft-headed mental masturbation of people who really don't understand oppression and the depths of actual human misery, I hope to get you to think differently about suffering and pain, to convince you that animals matter, and to argue that anyone serious about ending domination and hierarchy needs to think critically about bringing animals into consideration.",
+    "category": "Your Health",
+    "preview": "If you don't take care of this the most magnificent machine that you will ever be given...where are you going to live?",
     "basename": "80"
   },
   "81": {
-    "author": "Karyn Calabrese",
-    "image": "images/karyn_calabrese.jpg",
+    "author": "Peter Singer",
+    "image": "images/peter_singer.jpg",
     "order": 81,
-    "category": "Your Health",
-    "preview": "If you don't take care of this the most magnificent machine that you will ever be given...where are you going to live?",
+    "category": "The Animals",
+    "preview": "Personal purity isn’t really the issue. Not supporting animal abuse – and persuading others not to support it – is.",
     "basename": "81"
   },
   "82": {
-    "author": "Peter Singer",
-    "image": "images/peter_singer.jpg",
+    "author": "Herman Melville",
+    "image": "images/herman_melville.jpg",
     "order": 82,
     "category": "The Animals",
-    "preview": "Personal purity isn’t really the issue. Not supporting animal abuse – and persuading others not to support it – is.",
+    "preview": "Go to the meat market of a Saturday night and see the crowds of live bipeds staring up at the long rows of dead quadrupeds. Does not that sight take a tooth out of the cannibal's jaw? Cannibals? who is not a cannibal? I tell you it will be more tolerable for the Fejee that salted down a lean missionary in his cellar against a coming famine; it will be more tolerable for that provident Fejee, I say, in the day of judgement, than for thee, civilized and enlightened gourmand, who naliest geese to the ground and feistiest on their bloated livers in thy paté-de-foie-gras.",
     "basename": "82"
   },
   "83": {
-    "author": "Herman Melville",
-    "image": "images/herman_melville.jpg",
+    "author": "Sharon Gannon",
+    "image": "images/sharon_gannon.jpg",
     "order": 83,
     "category": "The Animals",
-    "preview": "Go to the meat market of a Saturday night and see the crowds of live bipeds staring up at the long rows of dead quadrupeds. Does not that sight take a tooth out of the cannibal's jaw? Cannibals? who is not a cannibal? I tell you it will be more tolerable for the Fejee that salted down a lean missionary in his cellar against a coming famine; it will be more tolerable for that provident Fejee, I say, in the day of judgement, than for thee, civilized and enlightened gourmand, who naliest geese to the ground and feistiest on their bloated livers in thy paté-de-foie-gras.",
+    "preview": "Don't wait for a better world. Start now to create a world of harmony and peace. It is up to you, and it always has been. You may even find the solution at the end of your fork.",
     "basename": "83"
   },
   "84": {
-    "author": "Sharon Gannon",
-    "image": "images/sharon_gannon.jpg",
+    "author": "Gary Steiner",
+    "image": "http://lorempixel.com/400/200",
     "order": 84,
     "category": "The Animals",
-    "preview": "Don't wait for a better world. Start now to create a world of harmony and peace. It is up to you, and it always has been. You may even find the solution at the end of your fork.",
+    "preview": "Human beings have capitalized on the silence of animals, just as certain human beings have historically imposed silence on certain other human beings by denying slaves the right to literacy, denying women the right to own property, and denying both the right to vote.",
     "basename": "84"
   },
   "85": {
-    "author": "Gary Steiner",
-    "image": "http://lorempixel.com/400/200",
+    "author": "Morrissey",
+    "image": "images/morrissey.jpg",
     "order": 85,
     "category": "The Animals",
-    "preview": "Human beings have capitalized on the silence of animals, just as certain human beings have historically imposed silence on certain other human beings by denying slaves the right to literacy, denying women the right to own property, and denying both the right to vote.",
+    "preview": "Nobody can possibly be so hungry that they need to take a life in order to feel satisfied - they don't after all, take a human life, so why take the life of an animal? Both are conscious beings with the same determination to survive. It is habit, and laziness and nothing else.",
     "basename": "85"
   },
   "86": {
-    "author": "Morrissey",
-    "image": "images/morrissey.jpg",
+    "author": "Michael Pollan",
+    "image": "images/michael_pollan.jpg",
     "order": 86,
     "category": "The Animals",
-    "preview": "Nobody can possibly be so hungry that they need to take a life in order to feel satisfied - they don't after all, take a human life, so why take the life of an animal? Both are conscious beings with the same determination to survive. It is habit, and laziness and nothing else.",
+    "preview": "This for many people is what is most offensive about hunting—to some, disgusting: that it encourages, or allows, us not only to kill but to take a certain pleasure in killing. It's not as though the rest of us don't countenance the killing of tens of millions of animals every year. Yet for some reason we feel more comfortable with the mechanical killing practiced, out of view and without emotion by industrial agriculture.",
     "basename": "86"
   },
   "87": {
-    "author": "Michael Pollan",
-    "image": "images/michael_pollan.jpg",
+    "author": "Kris Carr",
+    "image": "http://lorempixel.com/400/200",
     "order": 87,
-    "category": "The Animals",
-    "preview": "This for many people is what is most offensive about hunting—to some, disgusting: that it encourages, or allows, us not only to kill but to take a certain pleasure in killing. It's not as though the rest of us don't countenance the killing of tens of millions of animals every year. Yet for some reason we feel more comfortable with the mechanical killing practiced, out of view and without emotion by industrial agriculture.",
+    "category": "Your Health",
+    "preview": "If your meals consistently revolve around corpse multiple times daily, you might become one sooner than you planned.",
     "basename": "87"
   },
   "88": {
-    "author": "Kris Carr",
+    "author": "Vincent J. Guihan",
     "image": "http://lorempixel.com/400/200",
     "order": 88,
-    "category": "Your Health",
-    "preview": "If your meals consistently revolve around corpse multiple times daily, you might become one sooner than you planned.",
+    "category": "The Animals",
+    "preview": "I am not well-versed in theory, but in my view, the cow deserves her life. As does the ram. As does the ladybug. As does the elephant. As do the fish, and the dog and the bee; as do other sentient beings. I will always be in favor of veganism as a minimum because I believe that sentient beings have a right not to be used as someone else's property. They ask us to be brave for them, to be clear for them, and I see no other acceptable choice but to advocate veganism. If these statements make me a fundamentalist, then I will sew a scarlet F on my jacket so that all may know I'm fundamentally in favor of nonviolence; may they bury me in it so that all will know where I stood.",
     "basename": "88"
   },
   "89": {
-    "author": "Vincent J. Guihan",
+    "author": "Victoria Moran",
     "image": "http://lorempixel.com/400/200",
     "order": 89,
     "category": "The Animals",
-    "preview": "I am not well-versed in theory, but in my view, the cow deserves her life. As does the ram. As does the ladybug. As does the elephant. As do the fish, and the dog and the bee; as do other sentient beings. I will always be in favor of veganism as a minimum because I believe that sentient beings have a right not to be used as someone else's property. They ask us to be brave for them, to be clear for them, and I see no other acceptable choice but to advocate veganism. If these statements make me a fundamentalist, then I will sew a scarlet F on my jacket so that all may know I'm fundamentally in favor of nonviolence; may they bury me in it so that all will know where I stood.",
+    "preview": "Cruelty to animals is an enormous injustice; so is expecting those on the lowest rung of the economic ladder to do the dangerous, soul-numbing work of slaughtering sentient beings on our behalf.",
     "basename": "89"
   },
   "90": {
-    "author": "Victoria Moran",
-    "image": "http://lorempixel.com/400/200",
+    "author": "Jonathan Safran",
+    "image": "images/jonathan_safran.jpg",
     "order": 90,
-    "category": "The Animals",
-    "preview": "Cruelty to animals is an enormous injustice; so is expecting those on the lowest rung of the economic ladder to do the dangerous, soul-numbing work of slaughtering sentient beings on our behalf.",
+    "category": "Your Health",
+    "preview": "Food serves two parallel purposes: it nourishes and it helps you remember. Eating and storytelling are inseparable—the saltwater is also tears; the honey not only tastes sweet, but makes us think of sweetness; the matzo is the bread of our affliction.",
     "basename": "90"
   },
   "91": {
-    "author": "Jonathan Safran",
-    "image": "images/jonathan_safran.jpg",
+    "author": "Brian Awehali",
+    "image": "http://lorempixel.com/400/200",
     "order": 91,
-    "category": "Your Health",
-    "preview": "Food serves two parallel purposes: it nourishes and it helps you remember. Eating and storytelling are inseparable—the saltwater is also tears; the honey not only tastes sweet, but makes us think of sweetness; the matzo is the bread of our affliction.",
+    "category": "The Animals",
+    "preview": "I don't believe vegans (or vegetarians) who still get their (packaged, preservative/chemical-ridden) food from industrial food systems have any righteous ground to stand on, nor do I think a deep look at the sentient life of plants or the true environmental impact of agriculture permits them any comfortable distance from cruelty. Everything in this world eats something else to survive, and that something else, whether running on blood or chlorophyll, would always rather continue to live rather than become sustenance for another. No animal wants to be penned up and milked, or caged and harvested, and you've never seen plants growing in regimented lines of their own accord.",
     "basename": "91"
   },
   "92": {
-    "author": "Brian Awehali",
-    "image": "http://lorempixel.com/400/200",
+    "author": "Robert Cheeke",
+    "image": "images/robert_cheeke.jpg",
     "order": 92,
     "category": "The Animals",
-    "preview": "I don't believe vegans (or vegetarians) who still get their (packaged, preservative/chemical-ridden) food from industrial food systems have any righteous ground to stand on, nor do I think a deep look at the sentient life of plants or the true environmental impact of agriculture permits them any comfortable distance from cruelty. Everything in this world eats something else to survive, and that something else, whether running on blood or chlorophyll, would always rather continue to live rather than become sustenance for another. No animal wants to be penned up and milked, or caged and harvested, and you've never seen plants growing in regimented lines of their own accord.",
+    "preview": "The vegan lifestyle is a compassionate way to live that supports life, supports fairness and equality, and promotes freedom.",
     "basename": "92"
   },
   "93": {
-    "author": "Robert Cheeke",
-    "image": "images/robert_cheeke.jpg",
+    "author": "Chris Hedges",
+    "image": "images/chris_hedges.jpg",
     "order": 93,
-    "category": "The Animals",
-    "preview": "The vegan lifestyle is a compassionate way to live that supports life, supports fairness and equality, and promotes freedom.",
+    "category": "The Planet",
+    "preview": "Becoming vegan is the most important and direct change we can immediately make to save the planet and its species.",
     "basename": "93"
   },
   "94": {
-    "author": "Chris Hedges",
-    "image": "images/chris_hedges.jpg",
+    "author": "Tal Ronnen",
+    "image": "http://lorempixel.com/400/200",
     "order": 94,
-    "category": "The Planet",
-    "preview": "Becoming vegan is the most important and direct change we can immediately make to save the planet and its species.",
+    "category": "The Animals",
+    "preview": "Without pushing an agenda (okay, maybe I've pushed a bit), I've spread a little veganism wherever I've gone. I've become friends with chefs at the meatiest restaurants you can imagine, and shown them a few things that opened their minds (and their menus) to vegan options. It's easy to be convincing when the food is delicious. It doesn't feel like a sacrifice--it feels like a step up.",
     "basename": "94"
   },
   "95": {
-    "author": "Tal Ronnen",
+    "author": "Paul Roberts",
     "image": "http://lorempixel.com/400/200",
     "order": 95,
-    "category": "The Animals",
-    "preview": "Without pushing an agenda (okay, maybe I've pushed a bit), I've spread a little veganism wherever I've gone. I've become friends with chefs at the meatiest restaurants you can imagine, and shown them a few things that opened their minds (and their menus) to vegan options. It's easy to be convincing when the food is delicious. It doesn't feel like a sacrifice--it feels like a step up.",
+    "category": "The Planet",
+    "preview": "In California, the state's huge dairy herd produces twenty-seven million tons of manure a year, the particulates and vapors from which have helped to make air quality in the argiculturally intensive San Joaquin Valley worse than it is Los Angeles.",
     "basename": "95"
   },
   "96": {
-    "author": "Paul Roberts",
+    "author": "Zoe Rosenberg",
     "image": "http://lorempixel.com/400/200",
     "order": 96,
-    "category": "The Planet",
-    "preview": "In California, the state's huge dairy herd produces twenty-seven million tons of manure a year, the particulates and vapors from which have helped to make air quality in the argiculturally intensive San Joaquin Valley worse than it is Los Angeles.",
+    "category": "The Animals",
+    "preview": "I remember looking at the fear in her eyes. How could someone be so cruel? I thought as the hens cried. When will people realize, that other animals have just as much the right as we do.",
     "basename": "96"
   },
   "97": {
-    "author": "Zoe Rosenberg",
+    "author": "Kim Socha",
     "image": "http://lorempixel.com/400/200",
     "order": 97,
-    "category": "The Animals",
-    "preview": "I remember looking at the fear in her eyes. How could someone be so cruel? I thought as the hens cried. When will people realize, that other animals have just as much the right as we do.",
+    "category": "Your Health",
+    "preview": "When women tell me that Skinny Bitch made them go vegan, my appreciation of the book's purpose is tainted by a sadness that their self-worth had to be bartered to make that choice.",
     "basename": "97"
   },
   "98": {
-    "author": "Kim Socha",
-    "image": "http://lorempixel.com/400/200",
+    "author": "Johnny Marr",
+    "image": "images/johnny_marr.jpg",
     "order": 98,
-    "category": "Your Health",
-    "preview": "When women tell me that Skinny Bitch made them go vegan, my appreciation of the book's purpose is tainted by a sadness that their self-worth had to be bartered to make that choice.",
+    "category": "The Animals",
+    "preview": "I am very proud of the fact that 20 years [sic] on people tell me they became a vegetarian as a result of 'Meat is Murder'. I think that is quite literally rock music changing someone's life - it's certainly changing the life of animals. It is one of the things I am most proud of.",
     "basename": "98"
   },
   "99": {
-    "author": "Johnny Marr",
-    "image": "images/johnny_marr.jpg",
+    "author": "Karen Davis",
+    "image": "http://lorempixel.com/400/200",
     "order": 99,
     "category": "The Animals",
-    "preview": "I am very proud of the fact that 20 years [sic] on people tell me they became a vegetarian as a result of 'Meat is Murder'. I think that is quite literally rock music changing someone's life - it's certainly changing the life of animals. It is one of the things I am most proud of.",
+    "preview": "Especially when it comes to animals used for food, humanity’s reasoning power and concern about fairness plummets.",
     "basename": "99"
   },
   "100": {
-    "author": "Karen Davis",
-    "image": "http://lorempixel.com/400/200",
-    "order": 100,
-    "category": "The Animals",
-    "preview": "Especially when it comes to animals used for food, humanity’s reasoning power and concern about fairness plummets.",
-    "basename": "100"
-  },
-  "101": {
     "author": "Herbert M. Shelton",
     "image": "http://lorempixel.com/400/200",
-    "order": 101,
+    "order": 100,
     "category": "Your Health",
     "preview": "Although man has included meat in his diet for thousands of years, his anatomy and physiology, and the chemistry of his digestive juices, are still unmistakably those of a frugivorous animal.",
-    "basename": "101"
+    "basename": "100"
   }
 }
