@@ -1,0 +1,802 @@
+{
+  "1": {
+    "author": "Johnny Depp",
+    "image": "images/johnny_depp.jpg",
+    "order": 1,
+    "category": "The Animals",
+    "preview": "If you don’t like seeing pictures of violence towards animals being posted, you need to help stop the violence, not the pictures.",
+    "basename": "1"
+  },
+  "2": {
+    "author": "Dr. Caldwell Esselstyn",
+    "image": "images/caldwell_esselstyn.jpg",
+    "order": 2,
+    "category": "Your Health",
+    "preview": "Some people think the plant-based, whole-foods diet is extreme. Half a million people a year will have their chests opened up and a vein taken from their leg and sewn onto their coronary artery. Some people would call that extreme.",
+    "basename": "2"
+  },
+  "3": {
+    "author": "Liam Hemsworth",
+    "image": "images/liam_hemsworth.jpg",
+    "order": 3,
+    "category": "The Animals",
+    "preview": "After all the information I gathered about the mistreatment of animals, I couldn't continue to eat meat. The more I was aware of, the harder and harder it was to do.",
+    "basename": "3"
+  },
+  "4": {
+    "author": "Gary Yourofsky",
+    "image": "images/gary_yourofsky.jpg",
+    "order": 4,
+    "category": "The Animals",
+    "preview": "It is not your right—based on YOUR traditions, YOUR customs and YOUR habits—to deny animals THEIR freedom so you can harm them, enslave them and kill them. That’s not what rights are about. That’s injustice.",
+    "basename": "4"
+  },
+  "5": {
+    "author": "Freelee the Banana Girl",
+    "image": "images/freelee_frugivore.jpg",
+    "order": 5,
+    "category": "Your Health",
+    "preview": "When you adopt a vegan diet we make a connection, you don't go back, it is not a diet, it is a lifestyle.",
+    "basename": "5"
+  },
+  "6": {
+    "author": "Arnold Schwarzenegger",
+    "image": "images/arnold_schwarzenegger.jpg",
+    "order": 6,
+    "category": "Your Health",
+    "preview": "Luckily we know that you can get your protein source from many different ways, you can get it through vegetables if you are a vegetarian. I have seen many body builders that are vegetarian and they get strong and healthy.",
+    "basename": "6"
+  },
+  "7": {
+    "author": "Bill Clinton",
+    "image": "images/bill_clinton.jpg",
+    "order": 7,
+    "category": "Your Health",
+    "preview": "You have to make a conscious decision to change for your own well-being, that of your family and your country.",
+    "basename": "7"
+  },
+  "8": {
+    "author": "Al Gore",
+    "image": "images/al_gore.jpg",
+    "order": 8,
+    "category": "Your Health",
+    "preview": "I decided to pick the diet that I thought would maximize my chances of long-term survival.",
+    "basename": "8"
+  },
+  "9": {
+    "author": "Durianrider",
+    "image": "images/durianrider.jpg",
+    "order": 10,
+    "category": "Your Health",
+    "preview": "When people ask me why I don’t eat meat or any other animal products, I say, ‘Because they are unhealthy and they are the product of a violent and inhumane industry.",
+    "basename": "9"
+  },
+  "10": {
+    "author": "Cassey Afleck",
+    "image": "images/cassey_afleck.jpg",
+    "order": 10,
+    "category": "Your Health",
+    "preview": "When people ask me why I don’t eat meat or any other animal products, I say, ‘Because they are unhealthy and they are the product of a violent and inhumane industry.",
+    "basename": "10"
+  },
+  "11": {
+    "author": "Cesar Chavez",
+    "image": "images/cesar_chavez.jpg",
+    "order": 11,
+    "category": "The Animals",
+    "preview": "I became a vegetarian after realizing that animals feel afraid, cold, hungry and unhappy like we do. I feel very deeply about vegetarianism and the animal kingdom. It was my dog Boycott who led me to question the right of humans to eat other sentient beings.",
+    "basename": "11"
+  },
+  "12": {
+    "author": "Michael Greger",
+    "image": "images/michael_greger.jpg",
+    "order": 12,
+    "category": "Your Health",
+    "preview": "I continue to be amazed by our bodies' ability for self-repair. ... Our bodies want to be healthy, if we would just let them. That’s what these new research articles are showing: Even after years of beating yourself up with a horrible diet, your body can reverse the damage, open back up the arteries—even reverse the progression of some cancers. Amazing! So it's never too late to start exercising, never too late to stop smoking and never too late to start eating healthier.",
+    "basename": "12"
+  },
+  "13": {
+    "author": "Pamela Anderson",
+    "image": "images/pamela_anderson.jpg",
+    "order": 13,
+    "category": "The Animals",
+    "preview": "Every time we go by KFC, my kids ask me to honk and they yell 'Boo' out the window.",
+    "basename": "13"
+  },
+  "14": {
+    "author": "Mirko Bagaric",
+    "image": "http://lorempixel.com/400/200",
+    "order": 14,
+    "category": "The Animals",
+    "preview": "Suffering is suffering. It is always ugly. It is always unwelcome. It always needs to be stopped. There are no exceptions. A person with the capacity but not the inclination to cease suffering is morally incomplete.",
+    "basename": "14"
+  },
+  "15": {
+    "author": "Jeremy Bentham",
+    "image": "images/jeremy_bentham.jpg",
+    "order": 15,
+    "category": "The Animals",
+    "preview": "The question is not, 'Can they reason?' nor, 'Can they talk?' but rather, 'Can they suffer?",
+    "basename": "15"
+  },
+  "16": {
+    "author": "Rynn Berry",
+    "image": "images/rynn_berry.jpg",
+    "order": 16,
+    "category": "The Animals",
+    "preview": "My perspective of veganism was most affected by learning that the veal calf is a by-product of dairying, and that in essence there is a slice of veal in every glass of what I had thought was an innocuous white liquid - milk.",
+    "basename": "16"
+  },
+  "17": {
+    "author": "Henry Beston",
+    "image": "http://lorempixel.com/400/200",
+    "order": 17,
+    "category": "The Animals",
+    "preview": "We patronize them for their incompleteness, for their tragic fate for having taken form so far below ourselves. And therein do we err. For the animal shall not be measured by man. In a world older and more complete than ours, they move finished and complete, gifted with the extension of the senses we have lost or never attained, living by voices we shall never hear. They are not brethren, they are not underlings: they are other nations, caught with ourselves in the net of life and time, fellow prisoners of the splendour and travail of the earth.",
+    "basename": "17"
+  },
+  "18": {
+    "author": "Robert Brault",
+    "image": "http://lorempixel.com/400/200",
+    "order": 18,
+    "category": "The Animals",
+    "preview": "If a rabbit defined intelligence the way man does, then the most intelligent animal would be a rabbit, followed by the animal most willing to obey the commands of a rabbit.",
+    "basename": "18"
+  },
+  "19": {
+    "author": "Brigid Brophy",
+    "image": "http://lorempixel.com/400/200",
+    "order": 19,
+    "category": "The Animals",
+    "preview": "Whenever people say ‘We mustn’t be sentimental’ you can take it they are about to do something cruel. And if they add ‘We must be realistic’ they mean they are going to make money out of it.",
+    "basename": "19"
+  },
+  "20": {
+    "author": "Robert Browning",
+    "image": "images/robert_browning.jpg",
+    "order": 20,
+    "category": "The Animals",
+    "preview": "Take away Love and our earth is a tomb",
+    "basename": "20"
+  },
+  "21": {
+    "author": "Martin Buber",
+    "image": "images/martin_buber.jpg",
+    "order": 21,
+    "category": "The Animals",
+    "preview": "An animal's eyes have the power to speak a great language.",
+    "basename": "21"
+  },
+  "22": {
+    "author": "Kate Bush",
+    "image": "images/kate_bush.jpg",
+    "order": 22,
+    "category": "The Animals",
+    "preview": "I just could not stand the idea of eating meat - I really do think that it has made me calmer.... People's general awareness is getting much better, even down to buying a pint of milk: the fact that the calves are actually killed so that the milk doesn't go to them but to us cannot really be right, and if you have seen a cow in a state of extreme distress because it cannot understand why its calf isn't by, it can make you think a lot",
+    "basename": "22"
+  },
+  "23": {
+    "author": "Jeremy Bentham",
+    "image": "images/jeremy_bentham.jpg",
+    "order": 23,
+    "category": "The Animals",
+    "preview": "Man is the only animal that can remain on friendly terms with the victims he intends to eat until he eats them.",
+    "basename": "23"
+  },
+  "24": {
+    "author": "Buddha",
+    "image": "images/buddha.jpg",
+    "order": 24,
+    "category": "The Animals",
+    "preview": "One should not kill a living being, nor cause it to be killed, nor should one incite another to kill. Do not injure any being, either strong or weak, in the world.",
+    "basename": "24"
+  },
+  "25": {
+    "author": "Buddha",
+    "image": "images/buddha.jpg",
+    "order": 25,
+    "category": "The Animals",
+    "preview": "It is more important to prevent animal suffering, rather than sit to contemplate the evils of the universe praying in the company of priests.",
+    "basename": "25"
+  },
+  "26": {
+    "author": "Rachel Carson",
+    "image": "images/rachel_carson.jpg",
+    "order": 26,
+    "category": "The Animals",
+    "preview": "We cannot have peace among men whose hearts find delight in killing any living creature.",
+    "basename": "26"
+  },
+  "27": {
+    "author": "C. David Coats",
+    "image": "http://lorempixel.com/400/200",
+    "order": 27,
+    "category": "The Animals",
+    "preview": "Isn't man an amazing animal? He kills wildlife - birds, kangaroos, deer, all kinds of cats, coyotes, beavers, groundhogs, mice, foxes and dingoes - by the million in order to protect his domestic animals and their feed. Then he kills domestic animals by the billion and eats them. This in turn kills man by the million, because eating all those animals leads to degenerative - and fatal- health conditions like heart disease, kidney disease, and cancer. So then man tortures and kills millions more animals to look for cures for these diseases. Elsewhere, millions of other human beings are being killed by hunger and malnutrition because food they could eat is being used to fatten domestic animals. Meanwhile, some people are dying of sad laughter at the absurdity of man, who kills so easily and so violently, and once a year, sends out cards praying for Peace on Earth.",
+    "basename": "27"
+  },
+  "28": {
+    "author": "Leonardo Da Vinci",
+    "image": "images/leonardo_da_vinci.jpg",
+    "order": 28,
+    "category": "The Animals",
+    "preview": "The time will come when men such as I will look upon the murder of animals as they now look upon the murder of men.",
+    "basename": "28"
+  },
+  "29": {
+    "author": "Charles Darwin",
+    "image": "images/charles_darwin.jpg",
+    "order": 29,
+    "category": "The Animals",
+    "preview": "There is no fundamental difference between man and animals in their ability to feel pleasure and pain, happiness, and misery.",
+    "basename": "29"
+  },
+  "30": {
+    "author": "Harvey Diamond",
+    "image": "http://lorempixel.com/400/200",
+    "order": 30,
+    "category": "The Animals",
+    "preview": "You put a baby in a crib with an apple and a rabbit. If it eats the rabbit and plays with the apple, I'll buy you a new car.",
+    "basename": "30"
+  },
+  "31": {
+    "author": "Albert Einstein",
+    "image": "images/albert_einstein.jpg",
+    "order": 31,
+    "category": "The Animals",
+    "preview": "If people are good only because they fear punishment, then we are a sorry lot indeed.",
+    "basename": "31"
+  },
+  "32": {
+    "author": "Thomas Edison",
+    "image": "images/thomas_edison.jpg",
+    "order": 32,
+    "category": "The Animals",
+    "preview": "Non-violence leads to the highest ethics, which is the goal of all evolution. Until we stop harming all other living beings, we are still savages.",
+    "basename": "32"
+  },
+  "33": {
+    "author": "Anatole France",
+    "image": "images/anatole_france.jpg",
+    "order": 33,
+    "category": "The Animals",
+    "preview": "Until one has loved an animal, a part of one's soul remains unawakened.",
+    "basename": "33"
+  },
+  "34": {
+    "author": "Gary L. Francione",
+    "image": "images/gary_francione.jpg",
+    "order": 34,
+    "category": "The Animals",
+    "preview": "We do not need to eat animals, wear animals, or use animals for entertainment purposes, and our only defence of these uses is our pleasure, amusement, and convenience.",
+    "basename": "34"
+  },
+  "35": {
+    "author": "Mohandas Gandhi",
+    "image": "images/mohandas_gandhi.jpg",
+    "order": 35,
+    "category": "The Animals",
+    "preview": "I hold that the more helpless a creature, the more entitled it is to protection by man from the cruelty of man.",
+    "basename": "35"
+  },
+  "36": {
+    "author": "Ruth Harrison",
+    "image": "http://lorempixel.com/400/200",
+    "order": 36,
+    "category": "The Animals",
+    "preview": "In fact, if one person is unkind to an animal it is considered to be cruelty, but where a lot of people are unkind to animals, especially in the name of commerce, the cruelty is condoned and, once large sums of money are at stake, will be defended to the last by otherwise intelligent people.",
+    "basename": "36"
+  },
+  "37": {
+    "author": "William Ralph Inge",
+    "image": "images/william_ralph_inge.jpg",
+    "order": 37,
+    "category": "The Animals",
+    "preview": "We have enslaved the rest of animal creation and have treated our distant cousins in fur and feathers so badly that beyond doubt, if they were to formulate a religion, they would depict the Devil in human form.",
+    "basename": "37"
+  },
+  "38": {
+    "author": "Michael Klaper",
+    "image": "http://lorempixel.com/400/200",
+    "order": 38,
+    "category": "Your Health",
+    "preview": "The human body has no more need for cows' milk than it does for dogs' milk, horses' milk, or giraffes' milk.",
+    "basename": "38"
+  },
+  "39": {
+    "author": "K.D. Lang",
+    "image": "images/k_d_lang.jpg",
+    "order": 39,
+    "category": "The Animals",
+    "preview": "We all love animals. Why do we call some ‘pets’ and others ‘dinner?",
+    "basename": "39"
+  },
+  "40": {
+    "author": "James McWilliams",
+    "image": "http://lorempixel.com/400/200",
+    "order": 41,
+    "category": "The Animals",
+    "preview": "I became a vegan the day I watched a video of a calf being born on a factory farm. The baby was dragged away from his mother before he hit the ground. The helpless calf strained its head backwards to find his mother. The mother bolted after her son and exploded into a rage when the rancher slammed the gate on her. She wailed the saddest noise I’d ever heard an animal make, and then thrashed and ...dug into the ground, burying her face in the muddy placenta. I had no idea what was happening respecting brain chemistry, animal instinct, or whatever. I just knew that this was deeply wrong. I just knew that such suffering could never be worth the taste of milk and veal. I empathized with the cow and the calf and, in so doing, my life changed.",
+    "basename": "40"
+  },
+  "42": {
+    "author": "Moby",
+    "image": "images/moby.jpg",
+    "order": 42,
+    "category": "The Animals",
+    "preview": "Intellectually, human beings and animals may be different, but it's pretty obvious that animals have a rich emotional life and that they feel joy and pain. It's easy to forget the connection between a hamburger and the cow it came from. But I forced myself to acknowledge the fact that every time I ate a hamburger, a cow had ceased to breathe.",
+    "basename": "42"
+  },
+  "43": {
+    "author": "Moby",
+    "image": "images/moby.jpg",
+    "order": 43,
+    "category": "The Animals",
+    "preview": "If you don't want to be beaten, imprisoned, mutilated, killed or tortured then you shouldn't condone such behaviour towards anyone, be they human or not.",
+    "basename": "43"
+  },
+  "44": {
+    "author": "Moby",
+    "image": "images/moby.jpg",
+    "order": 44,
+    "category": "The Animals",
+    "preview": "Could you look an animal in the eyes and say to it, 'My appetite is more important than your suffering'?",
+    "basename": "44"
+  },
+  "45": {
+    "author": "Ingrid Newkirk",
+    "image": "images/ingrid_newkirk.jpg",
+    "order": 45,
+    "category": "Your Health",
+    "preview": "Recognize meat for what it really is: the antibiotic- and pesticide-laden corpse of a tortured animal.",
+    "basename": "45"
+  },
+  "46": {
+    "author": "Plutarch",
+    "image": "images/plutarch.jpg",
+    "order": 46,
+    "category": "The Animals",
+    "preview": "But for the sake of some little mouthful of flesh we deprive a soul of the sun and light, and of that proportion of life and time it had been born into the world to enjoy.",
+    "basename": "46"
+  },
+  "47": {
+    "author": "Pythagoras",
+    "image": "images/pythagoras.jpg",
+    "order": 47,
+    "category": "The Animals",
+    "preview": "For as long as men massacre animals, they will kill each other. Indeed, he who sows the seed of murder and pain cannot reap joy and love.",
+    "basename": "47"
+  },
+  "48": {
+    "author": "John Ruskin",
+    "image": "images/john_ruskin.jpg",
+    "order": 48,
+    "category": "The Animals",
+    "preview": "I will not kill or hurt any living creature needlessly, nor destroy any beautiful thing, but will strive to save and comfort all gentle life, and guard and perfect all natural beauty upon the earth.",
+    "basename": "48"
+  },
+  "49": {
+    "author": "Albert Schweitzer",
+    "image": "images/albert_schweitzer.jpg",
+    "order": 49,
+    "category": "The Animals",
+    "preview": "The thinking man must oppose all cruel customs no matter how deeply rooted in tradition and surrounded by a halo. When we have a choice, we must avoid bringing torment and injury into the life of another, even the lowliest creature; to do so is to renounce our manhood and shoulder a guilt which nothing justifies.",
+    "basename": "49"
+  },
+  "50": {
+    "author": "Albert Schweitzer",
+    "image": "images/albert_schweitzer.jpg",
+    "order": 50,
+    "category": "The Animals",
+    "preview": "The human spirit is not dead. It lives on in secret.....It has come to believe that compassion, in which all ethics must take root, can only attain its full breadth and depth if it embraces all living creatures and does not limit itself to mankind.",
+    "basename": "50"
+  },
+  "51": {
+    "author": "Albert Schweitzer",
+    "image": "images/albert_schweitzer.jpg",
+    "order": 51,
+    "category": "The Animals",
+    "preview": "A man is ethical only when life, as such, is sacred to him, that of plants and animals as that of his fellow men, and when he devotes himself helpfully to all life that is in need of help.",
+    "basename": "51"
+  },
+  "52": {
+    "author": "George Bernard Shaw",
+    "image": "images/george_bernard_Shaw.jpg",
+    "order": 52,
+    "category": "The Animals",
+    "preview": "The worst sin toward our fellow creatures is not to hate them, but to be indifferent to them: that's the essence of inhumanity.",
+    "basename": "52"
+  },
+  "53": {
+    "author": "Isaac Bashevis Singer",
+    "image": "images/isaac_bashevis_singer.jpg",
+    "order": 53,
+    "category": "The Animals",
+    "preview": "As long as people will shed the blood of innocent creatures there can be no peace, no liberty, no harmony between people. Slaughter and justice cannot dwell together.",
+    "basename": "53"
+  },
+  "54": {
+    "author": "Isaac Bashevis Singer",
+    "image": "images/isaac_bashevis_singer.jpg",
+    "order": 54,
+    "category": "The Animals",
+    "preview": "People often say that humans have always eaten animals, as if this is a justification for continuing to the practice. According to this logic, we should not try to prevent people from murdering other people, since this has also been done since the earliest of times.",
+    "basename": "54"
+  },
+  "55": {
+    "author": "Gary Smith",
+    "image": "http://lorempixel.com/400/200",
+    "order": 55,
+    "category": "The Animals",
+    "preview": "150 years ago, they would have thought you were absurd if you advocated for the end of slavery. 100 years ago, they would have laughed at you for suggesting that women should have the right to vote. 50 years ago, they would object to the idea of African Americans receiving equal rights under the law. 25 years ago they would have called you a pervert if you advocated for gay rights. They laugh at us now for suggesting that animal slavery be ended. Some day they won't be laughing.",
+    "basename": "55"
+  },
+  "56": {
+    "author": "Judy Stephens Snook",
+    "image": "http://lorempixel.com/400/200",
+    "order": 56,
+    "category": "The Animals",
+    "preview": "How can people spend this Christmas season talking of 'peace on earth' and 'love' and then sit down to devour someone who never knew love or peace?",
+    "basename": "56"
+  },
+  "57": {
+    "author": "Socrates",
+    "image": "images/socrates.jpg",
+    "order": 57,
+    "category": "Your Health",
+    "preview": "Thou should eat to live; not live to eat.",
+    "basename": "57"
+  },
+  "58": {
+    "author": "Socrates",
+    "image": "images/socrates.jpg",
+    "order": 58,
+    "category": "Your Health",
+    "preview": "Thou should eat to live; not live to eat.",
+    "basename": "58"
+  },
+  "59": {
+    "author": "Robert Louis Stevenson",
+    "image": "images/robert_louis_stevenson.jpg",
+    "order": 59,
+    "category": "The Animals",
+    "preview": "We consume the carcasses of creatures of like appetites, passions and organs with our own, and fill the slaughterhouses daily with screams of pain and fear.",
+    "basename": "59"
+  },
+  "60": {
+    "author": "Henry David Thoreau",
+    "image": "images/henry_David_thoreau.jpg",
+    "order": 60,
+    "category": "The Animals",
+    "preview": "One farmer says to me, ‘You cannot live on vegetable food solely, for it furnishes nothing to make the bones with;’ and so he religiously devotes a part of his day to supplying himself with the raw material of bones; walking all the while he talks behind his oxen, which, with vegetable-made bones, jerk him and his lumbering plow along in spite of every obstacle.",
+    "basename": "60"
+  },
+  "61": {
+    "author": "Leo Tolstoy",
+    "image": "images/leo_tolstoy.jpg",
+    "order": 61,
+    "category": "Your Health",
+    "preview": "A man can live and be healthy without killing animals for food; therefore, if he eats meat, he participates in taking animal life merely for the sake of his appetite. And to act so is immoral.",
+    "basename": "61"
+  },
+  "62": {
+    "author": "Thomas Tryon",
+    "image": "http://lorempixel.com/400/200",
+    "order": 62,
+    "category": "The Animals",
+    "preview": "Refrain at all times from such foods as cannot be procured without violence and oppression.",
+    "basename": "62"
+  },
+  "63": {
+    "author": "Mark Twain",
+    "image": "images/mark_twain.jpg",
+    "order": 63,
+    "category": "The Animals",
+    "preview": "Of all the creatures, man is the most detestable. Of the entire brood, he's the one that possesses malice. He is the only creature that inflicts pain for sport, knowing it to be pain. The fact that man knows right from wrong proves his intellectual superiority to the other creatures; but the fact that he can do wrong proves his moral inferiority to any creature that cannot.",
+    "basename": "63"
+  },
+  "64": {
+    "author": "Mark Twain",
+    "image": "images/mark_twain.jpg",
+    "order": 64,
+    "category": "The Animals",
+    "preview": "I believe I am not interested to know whether Vivisection produces results that are profitable to the human race or doesn't. To know that the results are profitable to the race would not remove my hostility to it. The pains which it inflicts upon unconsenting animals is the basis of my enmity towards it, and it is to me sufficient justification of the enmity without looking further.",
+    "basename": "64"
+  },
+  "65": {
+    "author": "Jonathan Safran",
+    "image": "images/jonathan_safran.jpg",
+    "order": 65,
+    "category": "The Animals",
+    "preview": "Perhaps in the back of our minds we already understand, without all the science I've discussed, that something terribly wrong is happening. Our sustenance now comes from misery. We know that if someone offers to show us a film on how our meat is produced, it will be a horror film. We perhaps know more than we care to admit, keeping it down in the dark places of our memory-- disavowed. When we eat factory-farmed meat we live, literally, on tortured flesh. Increasingly, that tortured flesh is becoming our own.",
+    "basename": "65"
+  },
+  "66": {
+    "author": "Ellen DeGeneres",
+    "image": "images/ellen_deGeneres.jpg",
+    "order": 66,
+    "category": "The Animals",
+    "preview": "If you want to test cosmetics, why do it on some poor animal who hasn't done anything? They should use prisoners who have been convicted of murder or rape instead. So, rather than seeing if perfume irritates a bunny rabbit's eyes, they should throw it in Charles Manson's eyes and ask him if it hurts.",
+    "basename": "66"
+  },
+  "67": {
+    "author": "rai_aren",
+    "image": "http://lorempixel.com/400/200",
+    "order": 67,
+    "category": "The Animals",
+    "preview": "I made the choice to be vegan because I will not eat (or wear, or use) anything that could have an emotional response to its death or captivity. I can well imagine what that must feel like for our non-human friends - the fear, the terror, the pain - and I will not cause such suffering to a fellow living being.",
+    "basename": "67"
+  },
+  "68": {
+    "author": "Gary L. Francione",
+    "image": "images/gary_francione.jpg",
+    "order": 68,
+    "category": "The Animals",
+    "preview": "Being vegan is easy. Are there social pressures that encourage you to continue to eat, wear, and use animal products? Of course there are. But in a patriarchal, racist, homophobic, and ableist society, there are social pressures to participate and engage in sexism, racism, homophobia, and ableism. At some point, you have to decide who you are and what matters morally to you. And once you decide that you regard victimizing vulnerable nonhumans is not morally acceptable, it is easy to go and stay vegan.",
+    "basename": "68"
+  },
+  "69": {
+    "author": "Gary L. Francione",
+    "image": "images/gary_francione.jpg",
+    "order": 69,
+    "category": "The Animals",
+    "preview": "Veganism is not about giving anything up or losing anything; it is about gaining the peace within yourself that comes from embracing nonviolence and refusing to participate in the exploitation of the vulnerable.",
+    "basename": "69"
+  },
+  "70": {
+    "author": "Jonathan Safran",
+    "image": "images/jonathan_safran.jpg",
+    "order": 70,
+    "category": "Your Health",
+    "preview": "Elsewhere the paper notes that vegetarians and vegans (including athletes) 'meet and exceed requirements' for protein. And, to render the whole we-should-worry-about-getting-enough-protein-and-therefore-eat-meat idea even more useless, other data suggests that excess animal protein intake is linked with osteoporosis, kidney disease, calcium stones in the urinary tract, and some cancers. Despite some persistent confusion, it is clear that vegetarians and vegans tend to have more optimal protein consumption than omnivores.",
+    "basename": "70"
+  },
+  "71": {
+    "author": "Gene Baur",
+    "image": "images/gene_baur.jpg",
+    "order": 71,
+    "category": "The Planet",
+    "preview": "The sixteen hundred dairies in California’s Central Valley alone produce more waste than a city of twenty-one million people-that’s more than the populations of London, New York, and Chicago combined.",
+    "basename": "71"
+  },
+  "72": {
+    "author": "Bill Maher",
+    "image": "images/bill_maher.jpg",
+    "order": 72,
+    "category": "Your Health",
+    "preview": "I wouldn't touch a hot dog unless you put a condom on it! You realize that the job of a hot dog is to use parts of the animal that the Chinese can't figure out how to make into a belt? -timecode 1:11:10",
+    "basename": "72"
+  },
+  "73": {
+    "author": "Chuck Palahniuk",
+    "image": "images/chuck_palahniuk.jpg",
+    "order": 73,
+    "category": "The Animals",
+    "preview": "Do you know why most survivors of the Holocaust are vegan? It's because they know what it's like to be treated like an animal.",
+    "basename": "73"
+  },
+  "74": {
+    "author": "Upton Sinclair",
+    "image": "images/upton_sinclair.jpg",
+    "order": 74,
+    "category": "The Animals",
+    "preview": "It was all so very businesslike that one watched it fascinated. It was pork-making by machinery, pork-making by applied mathematics. And yet somehow the most matter-of-fact person could not help thinking of the hogs; they were so innocent, they came so very trustingly; and they were so very human in their protests - and so perfectly within their rights! They had done nothing to deserve it; and it was adding insult to injury, as the thing was done here, swinging them up in this cold-blooded, impersonal way, without pretence at apology, without the homage of a tear.",
+    "basename": "74"
+  },
+  "75": {
+    "author": "Mohandas Gandhi",
+    "image": "images/mohandas_gandhi.jpg",
+    "order": 75,
+    "category": "The Animals",
+    "preview": "Violence begins with the fork.",
+    "basename": "75"
+  },
+  "76": {
+    "author": "Melanie Joy",
+    "image": "http://lorempixel.com/400/200",
+    "order": 76,
+    "category": "The Animals",
+    "preview": "The path of the norm is the path of least resistance; it is the route we take when we're on auto-pilot and don't even realize we're following a course of action that we haven't consciously chosen. Most people who eat meat have no idea that they're behaving in accordance with the tenets of a system that has defined many of their values, preferences, and behaviors. What they call 'free choice' is, in fact, the result of a narrowly obstructed set of options that have been chosen for them. They don't realize, for instance, that they have been taught to value human life so far above certain forms of nonhuman life that it seems appropriate for their taste preferences to supersede other species' preference for survival.",
+    "basename": "76"
+  },
+  "77": {
+    "author": "Thích Nhất Hạnh",
+    "image": "images/thick_nhat_hạnh.jpg",
+    "order": 77,
+    "category": "The Animals",
+    "preview": "Being vegetarian here also means that we do not consume dairy and egg products, because they are products of the meat industry. If we stop consuming, they will stop producing. Only collective awakening can create enough determination for action.",
+    "basename": "77"
+  },
+  "78": {
+    "author": "T. Casey Brennan",
+    "image": "images/casey_brennan.jpg",
+    "order": 78,
+    "category": "The Animals",
+    "preview": "Poor animals, how jealously they guard their bodies, for to us is merely an evening’s meal, but to them is life itself.",
+    "basename": "78"
+  },
+  "79": {
+    "author": "Will Tuttle",
+    "image": "images/will_tuttle.jpg",
+    "order": 79,
+    "category": "The Animals",
+    "preview": "There is something about veganism that is not easy, but the difficulty is not inherent in veganism, but in our culture.",
+    "basename": "79"
+  },
+  "80": {
+    "author": "Bob Torres",
+    "image": "http://lorempixel.com/400/200",
+    "order": 80,
+    "category": "The Animals",
+    "preview": "Our economic order is tightly woven around the exploitation of animals, and while it may seem easy to dismiss concern about animals as the soft-headed mental masturbation of people who really don't understand oppression and the depths of actual human misery, I hope to get you to think differently about suffering and pain, to convince you that animals matter, and to argue that anyone serious about ending domination and hierarchy needs to think critically about bringing animals into consideration.",
+    "basename": "80"
+  },
+  "81": {
+    "author": "Karyn Calabrese",
+    "image": "images/karyn_calabrese.jpg",
+    "order": 81,
+    "category": "Your Health",
+    "preview": "If you don't take care of this the most magnificent machine that you will ever be given...where are you going to live?",
+    "basename": "81"
+  },
+  "82": {
+    "author": "Peter Singer",
+    "image": "images/peter_singer.jpg",
+    "order": 82,
+    "category": "The Animals",
+    "preview": "Personal purity isn’t really the issue. Not supporting animal abuse – and persuading others not to support it – is.",
+    "basename": "82"
+  },
+  "83": {
+    "author": "Herman Melville",
+    "image": "images/herman_melville.jpg",
+    "order": 83,
+    "category": "The Animals",
+    "preview": "Go to the meat market of a Saturday night and see the crowds of live bipeds staring up at the long rows of dead quadrupeds. Does not that sight take a tooth out of the cannibal's jaw? Cannibals? who is not a cannibal? I tell you it will be more tolerable for the Fejee that salted down a lean missionary in his cellar against a coming famine; it will be more tolerable for that provident Fejee, I say, in the day of judgement, than for thee, civilized and enlightened gourmand, who naliest geese to the ground and feistiest on their bloated livers in thy paté-de-foie-gras.",
+    "basename": "83"
+  },
+  "84": {
+    "author": "Sharon Gannon",
+    "image": "images/sharon_gannon.jpg",
+    "order": 84,
+    "category": "The Animals",
+    "preview": "Don't wait for a better world. Start now to create a world of harmony and peace. It is up to you, and it always has been. You may even find the solution at the end of your fork.",
+    "basename": "84"
+  },
+  "85": {
+    "author": "Gary Steiner",
+    "image": "http://lorempixel.com/400/200",
+    "order": 85,
+    "category": "The Animals",
+    "preview": "Human beings have capitalized on the silence of animals, just as certain human beings have historically imposed silence on certain other human beings by denying slaves the right to literacy, denying women the right to own property, and denying both the right to vote.",
+    "basename": "85"
+  },
+  "86": {
+    "author": "Morrissey",
+    "image": "images/morrissey.jpg",
+    "order": 86,
+    "category": "The Animals",
+    "preview": "Nobody can possibly be so hungry that they need to take a life in order to feel satisfied - they don't after all, take a human life, so why take the life of an animal? Both are conscious beings with the same determination to survive. It is habit, and laziness and nothing else.",
+    "basename": "86"
+  },
+  "87": {
+    "author": "Michael Pollan",
+    "image": "images/michael_pollan.jpg",
+    "order": 87,
+    "category": "The Animals",
+    "preview": "This for many people is what is most offensive about hunting—to some, disgusting: that it encourages, or allows, us not only to kill but to take a certain pleasure in killing. It's not as though the rest of us don't countenance the killing of tens of millions of animals every year. Yet for some reason we feel more comfortable with the mechanical killing practiced, out of view and without emotion by industrial agriculture.",
+    "basename": "87"
+  },
+  "88": {
+    "author": "Kris Carr",
+    "image": "http://lorempixel.com/400/200",
+    "order": 88,
+    "category": "Your Health",
+    "preview": "If your meals consistently revolve around corpse multiple times daily, you might become one sooner than you planned.",
+    "basename": "88"
+  },
+  "89": {
+    "author": "Vincent J. Guihan",
+    "image": "http://lorempixel.com/400/200",
+    "order": 89,
+    "category": "The Animals",
+    "preview": "I am not well-versed in theory, but in my view, the cow deserves her life. As does the ram. As does the ladybug. As does the elephant. As do the fish, and the dog and the bee; as do other sentient beings. I will always be in favor of veganism as a minimum because I believe that sentient beings have a right not to be used as someone else's property. They ask us to be brave for them, to be clear for them, and I see no other acceptable choice but to advocate veganism. If these statements make me a fundamentalist, then I will sew a scarlet F on my jacket so that all may know I'm fundamentally in favor of nonviolence; may they bury me in it so that all will know where I stood.",
+    "basename": "89"
+  },
+  "90": {
+    "author": "Victoria Moran",
+    "image": "http://lorempixel.com/400/200",
+    "order": 90,
+    "category": "The Animals",
+    "preview": "Cruelty to animals is an enormous injustice; so is expecting those on the lowest rung of the economic ladder to do the dangerous, soul-numbing work of slaughtering sentient beings on our behalf.",
+    "basename": "90"
+  },
+  "91": {
+    "author": "Jonathan Safran",
+    "image": "images/jonathan_safran.jpg",
+    "order": 91,
+    "category": "Your Health",
+    "preview": "Food serves two parallel purposes: it nourishes and it helps you remember. Eating and storytelling are inseparable—the saltwater is also tears; the honey not only tastes sweet, but makes us think of sweetness; the matzo is the bread of our affliction.",
+    "basename": "91"
+  },
+  "92": {
+    "author": "Brian Awehali",
+    "image": "http://lorempixel.com/400/200",
+    "order": 92,
+    "category": "The Animals",
+    "preview": "I don't believe vegans (or vegetarians) who still get their (packaged, preservative/chemical-ridden) food from industrial food systems have any righteous ground to stand on, nor do I think a deep look at the sentient life of plants or the true environmental impact of agriculture permits them any comfortable distance from cruelty. Everything in this world eats something else to survive, and that something else, whether running on blood or chlorophyll, would always rather continue to live rather than become sustenance for another. No animal wants to be penned up and milked, or caged and harvested, and you've never seen plants growing in regimented lines of their own accord.",
+    "basename": "92"
+  },
+  "93": {
+    "author": "Robert Cheeke",
+    "image": "images/robert_cheeke.jpg",
+    "order": 93,
+    "category": "The Animals",
+    "preview": "The vegan lifestyle is a compassionate way to live that supports life, supports fairness and equality, and promotes freedom.",
+    "basename": "93"
+  },
+  "94": {
+    "author": "Chris Hedges",
+    "image": "images/chris_hedges.jpg",
+    "order": 94,
+    "category": "The Planet",
+    "preview": "Becoming vegan is the most important and direct change we can immediately make to save the planet and its species.",
+    "basename": "94"
+  },
+  "95": {
+    "author": "Tal Ronnen",
+    "image": "http://lorempixel.com/400/200",
+    "order": 95,
+    "category": "The Animals",
+    "preview": "Without pushing an agenda (okay, maybe I've pushed a bit), I've spread a little veganism wherever I've gone. I've become friends with chefs at the meatiest restaurants you can imagine, and shown them a few things that opened their minds (and their menus) to vegan options. It's easy to be convincing when the food is delicious. It doesn't feel like a sacrifice--it feels like a step up.",
+    "basename": "95"
+  },
+  "96": {
+    "author": "Paul Roberts",
+    "image": "http://lorempixel.com/400/200",
+    "order": 96,
+    "category": "The Planet",
+    "preview": "In California, the state's huge dairy herd produces twenty-seven million tons of manure a year, the particulates and vapors from which have helped to make air quality in the argiculturally intensive San Joaquin Valley worse than it is Los Angeles.",
+    "basename": "96"
+  },
+  "97": {
+    "author": "Zoe Rosenberg",
+    "image": "http://lorempixel.com/400/200",
+    "order": 97,
+    "category": "The Animals",
+    "preview": "I remember looking at the fear in her eyes. How could someone be so cruel? I thought as the hens cried. When will people realize, that other animals have just as much the right as we do.",
+    "basename": "97"
+  },
+  "98": {
+    "author": "Kim Socha",
+    "image": "http://lorempixel.com/400/200",
+    "order": 98,
+    "category": "Your Health",
+    "preview": "When women tell me that Skinny Bitch made them go vegan, my appreciation of the book's purpose is tainted by a sadness that their self-worth had to be bartered to make that choice.",
+    "basename": "98"
+  },
+  "99": {
+    "author": "Johnny Marr",
+    "image": "images/johnny_marr.jpg",
+    "order": 99,
+    "category": "The Animals",
+    "preview": "I am very proud of the fact that 20 years [sic] on people tell me they became a vegetarian as a result of 'Meat is Murder'. I think that is quite literally rock music changing someone's life - it's certainly changing the life of animals. It is one of the things I am most proud of.",
+    "basename": "99"
+  },
+  "100": {
+    "author": "Karen Davis",
+    "image": "http://lorempixel.com/400/200",
+    "order": 100,
+    "category": "The Animals",
+    "preview": "Especially when it comes to animals used for food, humanity’s reasoning power and concern about fairness plummets.",
+    "basename": "100"
+  },
+  "101": {
+    "author": "Herbert M. Shelton",
+    "image": "http://lorempixel.com/400/200",
+    "order": 101,
+    "category": "Your Health",
+    "preview": "Although man has included meat in his diet for thousands of years, his anatomy and physiology, and the chemistry of his digestive juices, are still unmistakably those of a frugivorous animal.",
+    "basename": "101"
+  }
+}
